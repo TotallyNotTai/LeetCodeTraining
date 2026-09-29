@@ -11,3 +11,7 @@ public:
         return i;
     }
 }; 
+
+/*
+Solution to both questions in "Deleting Items from Array" and "In-Place Operations"
+*/
